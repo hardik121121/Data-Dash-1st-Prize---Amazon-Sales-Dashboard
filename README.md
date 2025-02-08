@@ -1,4 +1,4 @@
-#🏆 **Hackathon Victory: DATA DASH – Data Visualization X Dashboard!** 🚀  
+🏆 **Hackathon Victory: DATA DASH – Data Visualization X Dashboard!** 🚀  
 
 Welcome to my repository, where I showcase the magic of **data storytelling**! ✨  
 This repository contains all the assets I created during the **DATA DASH** hackathon, including my award-winning **Power BI dashboard**, raw and cleaned datasets, and the data preprocessing notebook.  
